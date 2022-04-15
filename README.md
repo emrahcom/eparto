@@ -1,1 +1,1 @@
-# eparto-docs
+# eparto
