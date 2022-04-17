@@ -2,4 +2,4 @@
 
 [eparto.net](https://eparto.net) is a site for Jitsi admins and users to
 organize their Jitsi meetings, meeting schedules and attendees. This repo
-contains the related documents about it.
+contains related documents about it.
