@@ -14,10 +14,10 @@ cp -arp dist plugin REPO/revealjs/
 #### run
 
 ```bash
-cd REPO
+cd REPO/../
 python3 -m http.server
 ```
 
 #### view
 
-`http://localhost:8000/slides/presentation-name.html`
+`http://localhost:8000/eparto/slides/presentation-name.html`
