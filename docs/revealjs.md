@@ -20,4 +20,4 @@ python3 -m http.server
 
 #### view
 
-`http://localhost:8000/shows/presentation-name.html`
+`http://localhost:8000/slides/presentation-name.html`
