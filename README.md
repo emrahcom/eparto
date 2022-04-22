@@ -8,3 +8,4 @@ contains related documents about it.
 
 - [Registration](https://emrahcom.github.io/eparto/slides/id/registration.html)
 - [Adding a Jitsi domain](https://emrahcom.github.io/eparto/slides/pri/domain/add.html)
+- [Sharing a Jitsi domain](https://emrahcom.github.io/eparto/slides/pri/domain/share.html)
